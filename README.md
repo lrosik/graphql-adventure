@@ -1,2 +1,2 @@
 # graphql-adventure
-GraphQL API used with MS SQL Server and AdventureWorks sample database
+Repository used for learning graphQL and golang. Will be slowly extended with http endpoint, database connection.
